@@ -1,6 +1,9 @@
-# yama
+# Yama - Yet Another Mobile Application
 
-A new Flutter project.
+Yama is a mobile chat application created using Flutter and Dart. Many thanks to Sanskar Tiwari
+for the superb video tutorials for Flutter, Dart, and Firebase!
+
+
 
 ## Getting Started
 
