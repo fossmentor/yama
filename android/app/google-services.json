@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "16698770235",
+    "firebase_url": "https://yama-e4e7e.firebaseio.com",
+    "project_id": "yama-e4e7e",
+    "storage_bucket": "yama-e4e7e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16698770235:android:b3c357e9cdcf755bb42d1e",
+        "android_client_info": {
+          "package_name": "com.android.myapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16698770235-4daok1gvshj0ue5v2em8nsdq01ddr07r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIalpnEYLTFWfV-TUR56T68bx583FMi64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16698770235-4daok1gvshj0ue5v2em8nsdq01ddr07r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
